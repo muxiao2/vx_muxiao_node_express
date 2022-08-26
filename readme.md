@@ -1,6 +1,6 @@
 # 微信公众日常推送保姆教程（作者：沐晓）（node版）
 
-
+#####如果没有Makedown查看不了.md文件，可以参考博主的文章（https://blog.csdn.net/MX_muxiao/article/details/126546131?spm=1001.2014.3001.5501）
 
 ## 1.先安装node环境(https://nodejs.org/en/)
 
